@@ -1,6 +1,6 @@
 # recommender-systems
 <h3><u>building recommender systems that recommends movies</u></h3>
-
+this is smit
 the dataset used in the project is the rating.csv file available in the kaggle competion linked below
 
 https://www.kaggle.com/grouplens/movielens-20m-dataset
