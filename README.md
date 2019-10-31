@@ -17,5 +17,5 @@ since this is a mathematical model which is deterministic hence we improve it by
 <u><h4>part 2</h4></u>
 <h5>matrix factorization.py</h4>
 Based on SVD we try to produce our rating matrix as a product of two latent space matrices U and W 
-the predicted value is given as r^  = WT.U + b +c +mu
+the predicted value is given as r<sup>^</sup>  = W<sup>T</sup>.U + b +c +mu
 and hence the gradients and cost function
