@@ -1,9 +1,3 @@
-# https://udemy.com/recommender-systems
-# https://deeplearningcourses.com/recommender-systems
-from __future__ import print_function, division
-from builtins import range, input
-# Note: you may need to update your version of future
-# sudo pip install -U future
 
 import pickle
 import numpy as np
